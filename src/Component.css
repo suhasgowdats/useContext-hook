@@ -1,0 +1,27 @@
+.header{
+    background-color:rgb(246, 139, 139) ;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.btn-header{
+    padding: 10px;
+    background-color: aqua;
+    border: 1px solid aqua;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+.btn-header:hover{
+    cursor: pointer;
+    background-color: rgb(93, 227, 227);
+}
+
+.body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

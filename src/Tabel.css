@@ -1,0 +1,16 @@
+th,td{
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
+th{
+    background-color: gray;
+}
+
+.btn-act{
+    background-color: cornflowerblue;
+    padding: 5px;
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+    margin-left: 5px;
+}
